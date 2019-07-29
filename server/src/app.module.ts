@@ -13,7 +13,7 @@ import { EmployeeModule } from './employee/employee.module';
   imports: [
     MongooseModule.forRootAsync({
       useFactory: async () => ({
-        uri: "mongodb://slamdunk:AbubakerNasser@localhost:27017/newpatient",
+        uri: "mongodb://localhost:27017/newpatient",
         useNewUrlParser: true,
         useCreateIndex: true,
         useFindAndModify: false,
