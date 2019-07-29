@@ -1,10 +1,10 @@
 # nest-angular
-# MEAN Starter [![MIT license](http://img.shields.io/badge/license-MIT-lightgrey.svg)](http://opensource.org/licenses/MIT)
+# MNAN Starter [![MIT license](http://img.shields.io/badge/license-MIT-lightgrey.svg)](http://opensource.org/licenses/MIT)
 
 
 The frontend is generated with [Angular CLI](https://github.com/angular/angular-cli). The backend is made from scratch. Whole stack in [TypeScript](https://www.typescriptlang.org).
 
-This project uses the [MNAN stack](https://en.wikipedia.org/wiki/MEAN_(software_bundle)):
+This project uses the [MNAN stack]:
 * [**M**ongoose.js](http://www.mongoosejs.com) ([MongoDB](https://www.mongodb.com)): database
 * [**N**est.js](http://nestjs.com): backend framework
 * [**A**ngular 2+](https://angular.io): frontend framework
