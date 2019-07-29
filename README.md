@@ -6,7 +6,7 @@ The frontend is generated with [Angular CLI](https://github.com/angular/angular-
 
 This project uses the [MNAN stack](https://en.wikipedia.org/wiki/MEAN_(software_bundle)):
 * [**M**ongoose.js](http://www.mongoosejs.com) ([MongoDB](https://www.mongodb.com)): database
-* [**N**xpress.js](http://nestjs.com): backend framework
+* [**N**est.js](http://nestjs.com): backend framework
 * [**A**ngular 2+](https://angular.io): frontend framework
 * [**N**ode.js](https://nodejs.org): runtime environment
 
