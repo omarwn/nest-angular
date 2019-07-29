@@ -1,12 +1,11 @@
-# nest-angular
-# MNAN Starter [![MIT license](http://img.shields.io/badge/license-MIT-lightgrey.svg)](http://opensource.org/licenses/MIT)
+# MEAN Starter [![MIT license](http://img.shields.io/badge/license-MIT-lightgrey.svg)](http://opensource.org/licenses/MIT)
 
 
 The frontend is generated with [Angular CLI](https://github.com/angular/angular-cli). The backend is made from scratch. Whole stack in [TypeScript](https://www.typescriptlang.org).
 
-This project uses the [MNAN stack]:
+This project uses the [MNAN stack](https://en.wikipedia.org/wiki/MEAN_(software_bundle)):
 * [**M**ongoose.js](http://www.mongoosejs.com) ([MongoDB](https://www.mongodb.com)): database
-* [**N**est.js](http://nestjs.com): backend framework
+* [**N**xpress.js](http://nestjs.com): backend framework
 * [**A**ngular 2+](https://angular.io): frontend framework
 * [**N**ode.js](https://nodejs.org): runtime environment
 
@@ -54,10 +53,25 @@ A window will automatically open at [localhost:4200](http://localhost:4200). Ang
 * you have any suggestion to improve this project
 * you noticed any problem or error
 
+## Running tests
+Run `ng test` to execute the frontend unit tests via [Karma](https://karma-runner.github.io).
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+Run `mongod` to run an instance of MongoDB then run `npm run testbe` to execute the backend tests via [Mocha](https://mochajs.org/).
+
+## Running linters
+Run `ng lint` to execute the frontend TS linting via [TSLint](https://github.com/palantir/tslint).
+
+Run `npm run lintbe` to execute the backend TS linting via [TSLint](https://github.com/palantir/tslint).
+
+Run `npm run linthtml` to execute the frontend HTML linting via [HTMLHint](https://github.com/htmlhint/HTMLHint).
+
+Run `npm run lintscss` to execute the frontend SCSS linting via [SASS-Lint](https://github.com/sasstools/sass-lint).
+
+
 ## Further help
 To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ### Author
-Basic Author
 * [yafoxin](https://github.com/yafoxin)
-* and I'm use it in my project
