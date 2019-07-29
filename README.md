@@ -58,4 +58,6 @@ A window will automatically open at [localhost:4200](http://localhost:4200). Ang
 To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ### Author
+Basic Author
 * [yafoxin](https://github.com/yafoxin)
+* and I'm use it in my project
